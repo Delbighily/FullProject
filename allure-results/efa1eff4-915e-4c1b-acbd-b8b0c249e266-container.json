@@ -1,0 +1,1 @@
+{"uuid":"efa1eff4-915e-4c1b-acbd-b8b0c249e266","name":"com.magneto.base.BaseTest.setUp","children":["3f5e1669-c60a-4edd-af11-4b71504bbbd6"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1688848504355,"stop":1688848527780}],"afters":[],"start":1688848504355,"stop":1688848527780}
